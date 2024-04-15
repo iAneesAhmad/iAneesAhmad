@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/iAneesAhmad/vector-illustration/blob/main/assets/Banner.jpg)](https://www.ai4anyone.tech)
 <h1 align="center">Hi 👋, I'm Anees Ahmad</h1>
 <h3 align="center">A passionate Data Analytics Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/iAneesAhmad/vector-illustration/blob/main/assets/display-img.png">
+<img align="right" alt="Coding" width="400" src="https://github.com/iAneesAhmad/vector-illustration/blob/main/assets/display-img.png?raw=true">
 
 - 📫 How to reach me **iamaneesahmad.pk@gmail.com**
 
