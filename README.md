@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/iAneesAhmad/vector-illustration/blob/main/assets/Banner.jpg)](https://www.ai4anyone.tech)
+[![MasterHead](https://github.com/iAneesAhmad/vector-illustration/blob/main/assets/Banner.jpg?raw=true)](https://www.ai4anyone.tech)
 <h1 align="center">Hi 👋, I'm Anees Ahmad</h1>
 <h3 align="center">A passionate Data Analytics Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/iAneesAhmad/vector-illustration/blob/main/assets/display-img.png?raw=true">
@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianeesahmad&show_icons=true&theme=tokyonight&locale=en" alt="ianeesahmad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianeesahmad&" alt="ianeesahmad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianeesahmad&theme=tokyonight&" alt="ianeesahmad" /></p>
