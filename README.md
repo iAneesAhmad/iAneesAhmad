@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Analytics Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/iAneesAhmad/vector-illustration/blob/main/assets/display-img.png?raw=true">
 
-- 📫 How to reach me **iamaneesahmad.pk@gmail.com**
+- 📫 How to reach me **ianeesahmad.pk@gmail.com**
 
 - 📄 Know about my experiences [click me](https://www.linkedin.com/in/ianeesahmad/)
 
