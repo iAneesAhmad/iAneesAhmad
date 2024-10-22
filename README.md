@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/iAneesAhmad/vector-illustration/blob/main/assets/Banner.jpg?raw=true)](https://debugginghuman.com)
 <h1 align="center">Hi 👋, I'm Anees Ahmad</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer & UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/iAneesAhmad/vector-illustration/blob/main/assets/display-img.png?raw=true">
 
 - 📫 How to reach me **ianeesahmad.pk@gmail.com**
