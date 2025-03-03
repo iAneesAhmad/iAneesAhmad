@@ -25,4 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianeesahmad&theme=tokyonight&locale=en" alt="ianeesahmad" /></p>
 
-[![IMAGE ALT TEXT HERE]](https://www.youtube.com/watch?v=NLQqHYWi2OQ)
